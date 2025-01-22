@@ -1,0 +1,16 @@
+dmeo_v1\lv_font.o: lvgl\src\font\lv_font.c
+dmeo_v1\lv_font.o: lvgl\src\font\lv_font.h
+dmeo_v1\lv_font.o: lvgl\src\font\../lv_conf_internal.h
+dmeo_v1\lv_font.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+dmeo_v1\lv_font.o: lvgl\src\font\../lv_conf_kconfig.h
+dmeo_v1\lv_font.o: ./lvgl/lv_conf.h
+dmeo_v1\lv_font.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+dmeo_v1\lv_font.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+dmeo_v1\lv_font.o: lvgl\src\font\lv_symbol_def.h
+dmeo_v1\lv_font.o: lvgl\src\font\../misc/lv_area.h
+dmeo_v1\lv_font.o: lvgl\src\font\../misc/lv_utils.h
+dmeo_v1\lv_font.o: lvgl\src\font\../misc/lv_log.h
+dmeo_v1\lv_font.o: lvgl\src\font\../misc/lv_types.h
+dmeo_v1\lv_font.o: lvgl\src\font\../misc/lv_assert.h
+dmeo_v1\lv_font.o: lvgl\src\font\../misc/lv_mem.h
+dmeo_v1\lv_font.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\string.h

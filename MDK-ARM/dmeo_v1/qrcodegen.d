@@ -1,0 +1,9 @@
+dmeo_v1\qrcodegen.o: lvgl\src\extra\libs\qrcode\qrcodegen.c
+dmeo_v1\qrcodegen.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\assert.h
+dmeo_v1\qrcodegen.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\limits.h
+dmeo_v1\qrcodegen.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+dmeo_v1\qrcodegen.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\string.h
+dmeo_v1\qrcodegen.o: lvgl\src\extra\libs\qrcode\qrcodegen.h
+dmeo_v1\qrcodegen.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+dmeo_v1\qrcodegen.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+dmeo_v1\qrcodegen.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\stdint.h

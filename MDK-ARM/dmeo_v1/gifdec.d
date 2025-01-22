@@ -1,0 +1,16 @@
+dmeo_v1\gifdec.o: lvgl\src\extra\libs\gif\gifdec.c
+dmeo_v1\gifdec.o: lvgl\src\extra\libs\gif\gifdec.h
+dmeo_v1\gifdec.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+dmeo_v1\gifdec.o: lvgl\src\extra\libs\gif\../../../misc/lv_fs.h
+dmeo_v1\gifdec.o: lvgl\src\extra\libs\gif\../../../misc/../lv_conf_internal.h
+dmeo_v1\gifdec.o: lvgl\src\extra\libs\gif\../../../misc/../lv_conf_kconfig.h
+dmeo_v1\gifdec.o: ./lvgl/lv_conf.h
+dmeo_v1\gifdec.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+dmeo_v1\gifdec.o: lvgl\src\extra\libs\gif\../../../misc/lv_log.h
+dmeo_v1\gifdec.o: lvgl\src\extra\libs\gif\../../../misc/lv_types.h
+dmeo_v1\gifdec.o: lvgl\src\extra\libs\gif\../../../misc/lv_mem.h
+dmeo_v1\gifdec.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+dmeo_v1\gifdec.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\string.h
+dmeo_v1\gifdec.o: lvgl\src\extra\libs\gif\../../../misc/lv_color.h
+dmeo_v1\gifdec.o: lvgl\src\extra\libs\gif\../../../misc/lv_assert.h
+dmeo_v1\gifdec.o: lvgl\src\extra\libs\gif\../../../misc/lv_math.h

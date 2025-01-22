@@ -1,0 +1,13 @@
+dmeo_v1\lv_lru.o: lvgl\src\misc\lv_lru.c
+dmeo_v1\lv_lru.o: lvgl\src\misc\lv_lru.h
+dmeo_v1\lv_lru.o: lvgl\src\misc\../lv_conf_internal.h
+dmeo_v1\lv_lru.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+dmeo_v1\lv_lru.o: lvgl\src\misc\../lv_conf_kconfig.h
+dmeo_v1\lv_lru.o: ./lvgl/lv_conf.h
+dmeo_v1\lv_lru.o: lvgl\src\misc\lv_types.h
+dmeo_v1\lv_lru.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+dmeo_v1\lv_lru.o: lvgl\src\misc\lv_math.h
+dmeo_v1\lv_lru.o: lvgl\src\misc\lv_mem.h
+dmeo_v1\lv_lru.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\string.h
+dmeo_v1\lv_lru.o: lvgl\src\misc\lv_assert.h
+dmeo_v1\lv_lru.o: lvgl\src\misc\lv_log.h

@@ -1,0 +1,17 @@
+dmeo_v1\lv_bidi.o: lvgl\src\misc\lv_bidi.c
+dmeo_v1\lv_bidi.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\stddef.h
+dmeo_v1\lv_bidi.o: lvgl\src\misc\lv_bidi.h
+dmeo_v1\lv_bidi.o: lvgl\src\misc\../lv_conf_internal.h
+dmeo_v1\lv_bidi.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+dmeo_v1\lv_bidi.o: lvgl\src\misc\../lv_conf_kconfig.h
+dmeo_v1\lv_bidi.o: ./lvgl/lv_conf.h
+dmeo_v1\lv_bidi.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\stdbool.h
+dmeo_v1\lv_bidi.o: lvgl\src\misc\lv_txt.h
+dmeo_v1\lv_bidi.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\stdarg.h
+dmeo_v1\lv_bidi.o: lvgl\src\misc\lv_area.h
+dmeo_v1\lv_bidi.o: lvgl\src\misc\../font/lv_font.h
+dmeo_v1\lv_bidi.o: lvgl\src\misc\../font/lv_symbol_def.h
+dmeo_v1\lv_bidi.o: lvgl\src\misc\lv_printf.h
+dmeo_v1\lv_bidi.o: lvgl\src\misc\lv_types.h
+dmeo_v1\lv_bidi.o: lvgl\src\misc\../misc/lv_mem.h
+dmeo_v1\lv_bidi.o: D:\KEIL5\keil5\ARM\ARMCC\Bin\..\include\string.h
